@@ -1,0 +1,11 @@
+{
+  "name": "tinycms",
+  "description": "tinycms hosts your website and manages its content. Your agent designs the look and layout, then drafts, checks and publishes pages, articles, forms and social posts from a conversation. Nothing reaches the internet until you approve it, and every change is kept in a history you can look back through.",
+  "version": "1.0.0",
+  "author": { "name": "tinycms" },
+  "homepage": "https://www.tinycms.ai",
+  "repository": "https://github.com/tinycms-ai/tinycms-agent-plugin",
+  "license": "MIT",
+  "keywords": ["cms", "website", "hosting", "web-design", "approvals", "version-history", "publishing", "social-media", "content", "blog", "tinycms"],
+  "logo": "assets/logo.png"
+}
